@@ -133,7 +133,8 @@ export default function Home() {
               <div className="relative">
                 <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-4 border-white/20 shadow-2xl">
                   <img
-                    src="../assets/images/hashim.jpeg"
+                  
+                    src="/assets/images/hashim.jpeg"
                     alt="Hashim Noor - Front-End Developer"
                     className="w-full h-full object-cover object-top"
                   />
