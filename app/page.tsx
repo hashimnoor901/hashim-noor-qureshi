@@ -93,7 +93,8 @@ export default function Home() {
               <div className="relative">
                 <div className="w-80 h-80 rounded-full overflow-hidden border-4 border-white/20 shadow-2xl">
                   <img
-                    src="../assets/images/hashim.jpeg"
+                    src="https://readdy.ai/api/search-image?query=Professional%20software%20developer%20portrait%2C%20young%20man%20with%20friendly%20smile%2C%20wearing%20casual%20shirt%2C%20clean%20background%2C%20confident%20pose%2C%20modern%20lighting%2C%20high%20quality%20headshot%20photo%20suitable%20for%20portfolio%20website&width=400&height=400&seq=developer-portrait-001&orientation=squarish"
+                    alt="Hashim Noor - Front-End Developer"
                     className="w-full h-full object-cover object-top"
                   />
                 </div>
@@ -132,7 +133,7 @@ export default function Home() {
               <div className="relative">
                 <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-full overflow-hidden border-4 border-white/20 shadow-2xl">
                   <img
-                    src="https://readdy.ai/api/search-image?query=Professional%20software%20developer%20portrait%2C%20young%20man%20with%20friendly%20smile%2C%20wearing%20casual%20shirt%2C%20clean%20background%2C%20confident%20pose%2C%20modern%20lighting%2C%20high%20quality%20headshot%20photo%20suitable%20for%20portfolio%20website&width=400&height=400&seq=developer-portrait-001&orientation=squarish"
+                    src="../assets/images/hashim.jpeg"
                     alt="Hashim Noor - Front-End Developer"
                     className="w-full h-full object-cover object-top"
                   />
